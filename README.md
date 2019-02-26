@@ -1,5 +1,5 @@
 # Statistics-and-Machine-Learning
-Coursework Report &amp; Codes &amp; Dataset
+Coursework Report
 
 1.Working with Census Data by Using Bootstrap Sample
 
@@ -24,3 +24,6 @@ Coursework Report &amp; Codes &amp; Dataset
 11.Spam Detector
 
 12.Dimensionality Reduction
+
+
+If you are interested in these, feel free to contact me for a discussion or ask for a detailed data set.
