@@ -1,4 +1,7 @@
 # Statistics-and-Machine-Learning
+
+Data Science Core Module | University of Manchester
+
 Coursework Report
 
 1.Working with Census Data by Using Bootstrap Sample
