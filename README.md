@@ -28,7 +28,6 @@ Coursework Report
 
 12.Dimensionality Reduction
 
-
-
+13.Neural Network Training (MLP)
 
 If you are interested in these, feel free to contact me for a discussion or ask for a detailed data set.
