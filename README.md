@@ -32,4 +32,4 @@ Coursework Report
 
 14.DNN Literature Review
 
-If you are interested in these, feel free to contact me for a discussion or ask for a detailed data set.
+If you are interested in these, feel free to contact me for a discussion or ask for a specified data set.
