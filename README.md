@@ -32,4 +32,6 @@ Coursework Report
 
 14.DNN Literature Review
 
+15.KMeans and KNN
+
 If you are interested in these, feel free to contact me for a discussion or ask for a specified data set.
